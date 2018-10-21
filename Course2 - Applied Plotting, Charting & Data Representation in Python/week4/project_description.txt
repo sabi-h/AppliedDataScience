@@ -1,0 +1,34 @@
+This visualization was concerned with answering the question of how the win percentages of the four
+major Detroit sports teams (The Detroit Pistons, The Red Wings, The Detroit Tigers, and The Detroit
+Lions) have changed over the last 40 years. Wikipedia was scraped for data concerning wins and losses
+by season for each team. Any tie games were dropped from the analysis in order to provide a more
+level comparison between the sports. A 10 year moving average was plotted to help the reader identify
+any major trends in the team’s win percentages.
+
+The plot indicates years of high win percentage for The Detroit Pistons around 1990 and 2005,
+with periods of decline following both high points. The Detroit Red Wings’ win percentage shows an
+increase in the 1990’s and stays high through the early 2000’s, with a downward trend in recent years.
+The Detroit Tiger’s win percentage shows less variation than the other teams, hovering around 50%,
+with it’s lowest win percentage in the early 2000’s. The win percentage of the Detroit Lions shows low
+levels throughout the early 2000’s, with an increase after 2010.
+
+
+The main goal of the visualisation was to compare house prices and crime rate of London boroughs and 
+find out which borough in London had the lowest house price and crime rate in 2017. Crime and House price
+data was obtained from data.london.gov.uk website in CSV and Excel file formats respectively. Borough
+population data was obtained from citypopulation.de. All major/minor crimes were combined together to
+get total number of crimes for each borough. An interactive graph is produced to help discover the best
+borough for the user, since there is no one answer to our problem. There are boroughs which have 
+low crime rate but high house prices, while there are boroughs which have high crime rate but low house 
+prices. User can click on the interactive graph to get borough name the exact house price and crime
+rate.
+
+The graph is divided into four segments which are made using the line plots of average house price
+and Crime Rate in London. The boroughs with less than average crime rate and less less than average 
+house price are marked as green, there are 18 of these boroughs. Boroughs with less than average house
+price but higher than average crime rate, and boroughs with more than average house price and less
+than average crime rate were marked as orange. Lastly the boroughs with more than average house price
+and crime rate were marked as red. There were boroughs which stood out the most, 'Westminister' and
+'Kensington and Chelsea'. Both of these boroughs had unusually high house prices and crime rate.
+Arguably the best boroughs were 'Barking and Dagenham', 'Bexley', 'Sutton' and 'Harrow', all of these
+with very low house prices crime rate.
